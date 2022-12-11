@@ -1,0 +1,11 @@
+F:\VisualStudio\source\Blaunch\Blanch\bin\Debug\Blanch.exe.config
+F:\VisualStudio\source\Blaunch\Blanch\bin\Debug\Blanch.exe
+F:\VisualStudio\source\Blaunch\Blanch\bin\Debug\Blanch.pdb
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.csproj.AssemblyReference.cache
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.csproj.SuggestedBindingRedirects.cache
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.Form1.resources
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.Properties.Resources.resources
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.csproj.GenerateResource.cache
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.csproj.CoreCompileInputs.cache
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.exe
+F:\VisualStudio\source\Blaunch\Blanch\obj\Debug\Blanch.pdb
